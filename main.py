@@ -18,7 +18,7 @@ README:
     4. Run the script: python main.py [optional_path_to_html_file]
 """
 
-EDT_FILE = 'C:\\Users\\jhony\\Downloads\\EdT - 4IF@ADE.html'  # Default HTML file path
+EDT_FILE = 'EdT - 4IF@ADE.html'  # Default HTML file path
 IF_GROUP = 1 # Change this to 2 for IF2, 3 for IF3, etc.
 
 def approx_time(table: bs4.element.Tag, event: bs4.element.Tag) -> str:
