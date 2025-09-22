@@ -1,0 +1,6 @@
+timetable.ics
+
+./venv/
+__pycache__/
+
+test.ipynb
